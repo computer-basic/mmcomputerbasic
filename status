@@ -1,8 +1,8 @@
 {
-    "title": "Maintenance",
-    "message": "ကျွန်တော်တို့ WR MM Guide ကို ဆက် run ဖို့ လုံလောက်တဲ့ support မရခဲ့တဲ့အတွက် app ကို run တာခဏရပ်လိုက်ပါပြီ မကြာခင် ads ပါတဲ့ update နဲ့ပြန်လာခဲ့ပါမယ်",
-    "version": "2.1",
-    "show": true,
+    "title": "title",
+    "message": "message",
+    "version": "1.0",
+    "show": false,
     "force": false,
     "url": "https://play.google.com/store/apps/details?id=mm.computer.basic&hl=en",
     "youtube" : "AIzaSyCwpgig4ddaKgxphX-FrLOFoUMKVoR9MgE"
