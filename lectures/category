@@ -14,13 +14,13 @@
     {
         "id": 3,
         "title": "Microsoft Word",
-        "server":"youtube",
+        "server":"youtub",
         "thumbnail": "https://i.imgur.com/7mCE7Zz.png"
     },
     {
         "id": 4,
         "title": "Microsoft Excel",
-        "server":"youtube",
+        "server":"youtub",
         "thumbnail": "https://i.imgur.com/cOtAvFa.png"
     },
     {
@@ -74,7 +74,7 @@
     {
         "id": 13,
         "title": "HTML",
-        "server":"youtube",
+        "server":"youtub",
         "thumbnail": "https://i.imgur.com/at4aoSL.png"
     },
     {
