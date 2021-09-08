@@ -280,5 +280,11 @@
         "link": "https://drive.google.com/uc?export=download&id=1W-NIy2yfs2xao0tMab8IE8BA7bvt7476",
         "size": "8 MB",
         "icon": "https://i.imgur.com/WmJ3b9Z.jpg"
+    },
+    {
+        "name": "Android 11",
+        "link": "https://raw.githubusercontent.com/computer-basic/mmcomputerbasic/main/Android11Meetup.pdf",
+        "size": "1 MB",
+        "icon": "https://i.imgur.com/WmJ3b9Z.jpg"
     }
 ]
